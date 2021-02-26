@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: 292090429255.dkr.ecr.ap-south-1.amazonaws.com/b.ysquaretechnology.com:latest
+  repository: 292090429255.dkr.ecr.ap-south-1.amazonaws.com/b.ysquaretechnology.com
   tag: latest
   pullPolicy: IfNotPresent
 
