@@ -4,8 +4,8 @@
 
 replicaCount: 1
 
-image:
-  repository: 292090429255.dkr.ecr.ap-south-1.amazonaws.com/a.ysquaretechnology.com
+image: 292090429255.dkr.ecr.ap-south-1.amazonaws.com/argocd
+  repository: 
   tag: latest
   pullPolicy: IfNotPresent
 
