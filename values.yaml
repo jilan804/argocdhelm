@@ -4,8 +4,8 @@
 
 replicaCount: 1
 
-image: 292090429255.dkr.ecr.ap-south-1.amazonaws.com/argocd
-  repository: 
+image: 
+  repository: 292090429255.dkr.ecr.ap-south-1.amazonaws.com/argocd
   tag: latest
   pullPolicy: IfNotPresent
 
